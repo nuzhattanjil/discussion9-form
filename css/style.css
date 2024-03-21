@@ -19,6 +19,8 @@
     grid-column-end: 3;
     /* background: #575294; */
     color: #702082;
+    vertical-align: middle;
+    margin-right:auto;
   }
 
   #name {
@@ -34,10 +36,11 @@
     width: 100%;
     padding: 10px;
     resize: vertical;
+    vertical-align: middle;
+    margin-right:auto;
   }
 
-  input,
-  textarea {
+  input, textarea {
     padding: 10px;
     border: 1px solid #ccc;
     width: 100%;
